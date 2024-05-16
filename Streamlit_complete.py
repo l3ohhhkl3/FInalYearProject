@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 import tensorflow as tf
-from io import BytesIO
 
 # Model Paths
 SAVED_MODEL_FILE = 'zero-dce-saved-model/'
